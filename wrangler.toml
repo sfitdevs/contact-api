@@ -1,0 +1,7 @@
+name = "contact-api"
+main = "src/index.js"
+compatibility_date = "2023-12-18"
+
+[vars]
+RECAPTCHA_SECRET_KEY = "<RECAPTCHA_SECRET_KEY>"
+TELEGRAM_BOT_TOKEN = "<TELEGRAM_BOT_TOKEN>"
